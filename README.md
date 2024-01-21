@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jayaagarwal508@gmail.com**
 
-- ⚡ Fun fact **I like to draw cute drawing**
+- ⚡ Fun fact **I like to draw cute stuff**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
