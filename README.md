@@ -1,6 +1,6 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/6c0f9b95746151.5e9ecde69599e.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Jaya Agarwal</h1>
-<h3 align="center">A passionate data analyzer from India</h3>
+<h3 align="center">A passionate data analysist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif?cid=790b7611rs7ehiume1k770z04jnkh93rx60t84i3n2wdq4rh&rid=200.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayaaa508&label=Profile%20views&color=0e75b6&style=flat" alt="jayaaa508" /> </p>
